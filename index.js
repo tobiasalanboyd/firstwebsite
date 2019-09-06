@@ -4,6 +4,7 @@
             newFunction();
             $('#nameform').on('submit', function(evt){
                 
+                
                 evt.preventDefault();
                 $(".jumbotron").removeClass('d-none');
 
