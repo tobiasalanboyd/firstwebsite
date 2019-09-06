@@ -1,7 +1,7 @@
 $(function(){
     //this code runs after page is fully loaded
     $("lname").addClass('d-none');
-    newFunction();
+    //newFunction();
     $('#nameform').on('submit', function(evt){
         
 
